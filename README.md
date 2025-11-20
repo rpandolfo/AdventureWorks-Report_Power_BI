@@ -3,7 +3,7 @@
 
 ## Outdoor Sales Dashboard Report
 
-This Power BI report demonstrates capabilities in **data cleaning**, creating **interactive dashboards**, and using **filters and slicers** to provide dynamic insights. The dashboard is divided into **two main parts**, each offering valuable perspectives on outdoor product sales and performance.
+This Power BI report demonstrates capabilities in **data cleaning and integration from different files**, creating **interactive dashboards**, and using **filters and slicers** to provide dynamic insights. The dashboard is divided into **two main parts**, each offering valuable perspectives on outdoor product sales and performance.
 
 ---
 
