@@ -48,6 +48,6 @@ This Power BI report demonstrates capabilities in **data cleaning and integratio
 > **Interactive Filter:** Users can filter by **year** to focus on specific periods of io interest.
 
 ---
-
+## 💡 Skills Demonstrated 
 This dashboard highlights **interactive reporting capabilities** in Power BI, combining **high-level summaries** with **detailed analytical views** for informed decision-making.
 
